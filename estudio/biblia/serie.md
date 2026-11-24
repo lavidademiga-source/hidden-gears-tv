@@ -1,5 +1,7 @@
 # Hidden Gears · Biblia de la serie
 
+Canal: nombre visible **Hidden Gears** · handle **@HiddenGearsChannel** · repo `lavidademiga-source/hidden-gears-tv`
+
 ## Promesa del canal
 En menos de un minuto, ves por dentro un objeto que usas cada día y entiendes **la razón real** de por qué está hecho así.
 
