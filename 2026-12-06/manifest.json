@@ -1,0 +1,36 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-12-06",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-06_1_qr-code-squares.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-06/2026-12-06_1_qr-code-squares.mp4",
+      "publicar_en": "2026-12-06T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "QR Code Squares: What the 3 Corners Actually Do",
+      "descripcion": "The three big squares on a QR code are finder patterns. They tell the camera where the code is, how big it is and which way is up, so it scans at any angle. QR codes were created in 1994 to track car parts.\n\nSources: Britannica, QR code (britannica.com) · Keyence, What is a QR code? (keyence.com).\n\n#Shorts #TechFacts #HowItWorks",
+      "hashtags": [
+        "#Shorts",
+        "#TechFacts",
+        "#HowItWorks"
+      ],
+      "etiquetas": [
+        "QR code",
+        "QR code squares",
+        "finder pattern",
+        "how QR codes work",
+        "tech facts",
+        "technology explained",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "What's the weirdest place you've ever seen a QR code?",
+      "duracion_s": 35
+    }
+  ]
+}

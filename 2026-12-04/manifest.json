@@ -1,0 +1,36 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-12-04",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-04_1_train-wheels-cones.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-04/2026-12-04_1_train-wheels-cones.mp4",
+      "publicar_en": "2026-12-04T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Train Wheels: Why They're Actually Cones",
+      "descripcion": "Train wheels are slightly cone-shaped. In a curve the outer wheel rolls on its wider part and covers more distance, so a train turns without a differential, and on straight track the cones keep it centered.\n\nSources: Practical Engineering, Why are rails shaped like that? (practical.engineering) · Train wheel, Wikipedia.\n\n#Shorts #Engineering #Trains",
+      "hashtags": [
+        "#Shorts",
+        "#Engineering",
+        "#Trains"
+      ],
+      "etiquetas": [
+        "train wheels",
+        "conical wheels",
+        "how trains turn",
+        "railway engineering",
+        "engineering explained",
+        "why train wheels are cones",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Would you rather ride a train or drive for a 5-hour trip? Why?",
+      "duracion_s": 35
+    }
+  ]
+}

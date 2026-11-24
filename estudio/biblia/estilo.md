@@ -8,7 +8,7 @@ Límites de la muestra: ref02 sin voz; ref08 con tramo a velocidad 2x (fuera de 
 
 | Métrica | Referencias: mediana (p25-p75) | Objetivo Hidden Gears | Semana 1 (nuestros) |
 |---|---|---|---|
-| Duración (s) | 27,0 (23,9-32,7); válidos ≥ 30 s: 33,6 (31,6-34,7) | **31-35 s** (≈ 115 palabras) | 35,5-37,5 → recortar |
+| Duración (s) | 27,0 (23,9-32,7); válidos ≥ 30 s: 33,6 (31,6-34,7) | **35-37 s** (mínimo de la FASE 4; ≈ 125-130 palabras) | 35,5-37,5 ✔ |
 | Palabras/s | sin medir (falta transcripción) | 3,5-4,0 (por defecto) | 3,55 |
 | Silencios > 0,3 s | sin medir | 0 | 0 |
 | % fotogramas con movimiento | 85,2 (81,7-89,7) | **≥ 88 %** (por encima de la mediana) | 91,7-95,1 ✔ |
@@ -22,6 +22,6 @@ Límites de la muestra: ref02 sin voz; ref08 con tramo a velocidad 2x (fuera de 
 | Sonoridad | no medible en grabación de pantalla | −14 LUFS | −14 ✔ |
 
 ## Cambios para la semana 2 (con datos)
-1. Duración 35-37 s → 31-35 s (≈ 115 palabras): la mediana de los válidos es 33,6 s.
+1. Duración: 35-37 s, el mínimo que permite la FASE 4 (la mediana del nicho, 33,6 s, queda por debajo de la regla).
 2. Brillo de escenas «noche»: multiplicador de luz 0,42 → 0,28 para que el brillo medio quede en 100-122 (V03 dio 82).
 3. Un evento visual nuevo (zoom, pieza que entra, etiqueta) cada ~2 s dentro de cada plano, para bajar el movimiento medio de 4-7 s a 2-4 s.

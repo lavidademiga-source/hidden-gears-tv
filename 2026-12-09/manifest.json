@@ -1,0 +1,36 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-12-09",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-09_1_botts-dots.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-09/2026-12-09_1_botts-dots.mp4",
+      "publicar_en": "2026-12-09T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Botts' Dots: The 20 Million Bumps on California Roads",
+      "descripcion": "Botts' dots are the raised markers between lanes, named after California highway researcher Elbert Botts. They stayed visible when paint wore off or rain hid it, but Caltrans is now phasing them out in favor of reflective paint.\n\nSources: Botts' dots, Wikipedia · 99% Invisible, End of the road for Botts' Dots (99percentinvisible.org).\n\n#Shorts #RoadFacts #Engineering",
+      "hashtags": [
+        "#Shorts",
+        "#RoadFacts",
+        "#Engineering"
+      ],
+      "etiquetas": [
+        "Botts dots",
+        "road bumps",
+        "lane markers",
+        "California roads",
+        "highway engineering",
+        "driving facts",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Do Botts' dots help you or just annoy you on the highway?",
+      "duracion_s": 35
+    }
+  ]
+}

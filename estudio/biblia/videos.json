@@ -1,34 +1,247 @@
 {
  "v01": {
-  "fecha": "2026-11-27", "hora": "18:00", "tema": "airplane-window-hole",
+  "fecha": "2026-11-27",
+  "hora": "18:00",
+  "tema": "airplane-window-hole",
   "titulo": "Airplane Window Hole: Why It's There On Purpose",
   "descripcion": "Every airplane window has a tiny hole in the middle pane. It keeps cabin pressure on the outer pane, so the middle one stays a fresh backup, and it lets moisture out so the window doesn't fog.\n\nSources: Mental Floss, Why do airplane windows have tiny holes? (mentalfloss.com) · AFAR, Why airplane windows have tiny holes (afar.com) · Cabin pressurization, Wikipedia.",
-  "hashtags": ["#Shorts", "#HowItWorks", "#Aviation"],
-  "etiquetas": ["airplane window hole", "breather hole", "how airplane windows work", "cabin pressure", "aviation facts", "engineering explained", "why is there a hole in plane windows", "hidden gears"],
+  "hashtags": [
+   "#Shorts",
+   "#HowItWorks",
+   "#Aviation"
+  ],
+  "etiquetas": [
+   "airplane window hole",
+   "breather hole",
+   "how airplane windows work",
+   "cabin pressure",
+   "aviation facts",
+   "engineering explained",
+   "why is there a hole in plane windows",
+   "hidden gears"
+  ],
   "comentario_fijado": "Window seat or aisle seat, and why? Be honest."
  },
  "v02": {
-  "fecha": "2026-11-29", "hora": "18:00", "tema": "padlock-bottom-hole",
+  "fecha": "2026-11-29",
+  "hora": "18:00",
+  "tema": "padlock-bottom-hole",
   "titulo": "Padlock Hole: The Real Reason It's on the Bottom",
   "descripcion": "That tiny hole under a padlock is not a keyhole. It mainly drains rain that gets in through the keyhole, so the lock rusts less and doesn't freeze shut. Some lock makers also suggest lubricating through it.\n\nSources: House Digest, What is the tiny hole on the bottom of a padlock for? (housedigest.com) · Monroe Engineering, Why padlocks have a small hole on the bottom (monroeengineering.com).",
-  "hashtags": ["#Shorts", "#HowItWorks", "#Engineering"],
-  "etiquetas": ["padlock hole", "padlock drainage hole", "how padlocks work", "everyday design", "engineering explained", "why padlocks have a hole", "hidden gears"],
+  "hashtags": [
+   "#Shorts",
+   "#HowItWorks",
+   "#Engineering"
+  ],
+  "etiquetas": [
+   "padlock hole",
+   "padlock drainage hole",
+   "how padlocks work",
+   "everyday design",
+   "engineering explained",
+   "why padlocks have a hole",
+   "hidden gears"
+  ],
   "comentario_fijado": "What everyday object do you think has a secret design trick? I'll try to explain the best one."
  },
  "v03": {
-  "fecha": "2026-12-01", "hora": "18:00", "tema": "fuel-gauge-arrow",
+  "fecha": "2026-12-01",
+  "hora": "18:00",
+  "tema": "fuel-gauge-arrow",
   "titulo": "Fuel Gauge Arrow: The Real Story Behind It",
   "descripcion": "The little triangle next to your fuel gauge points to the side of your gas cap. Ford designer Jim Moylan proposed it in a 1986 memo after a rainy trip to the pump, and it first appeared on 1989 Ford models.\n\nSources: Motor1, What that little arrow next to the fuel gauge actually means (motor1.com) · The Drive, The Moylan Arrow is one of Ford's best contributions to car design (thedrive.com).",
-  "hashtags": ["#Shorts", "#CarFacts", "#HowItWorks"],
-  "etiquetas": ["fuel gauge arrow", "moylan arrow", "gas cap side", "car hacks", "car facts", "how cars work", "car design history", "hidden gears"],
+  "hashtags": [
+   "#Shorts",
+   "#CarFacts",
+   "#HowItWorks"
+  ],
+  "etiquetas": [
+   "fuel gauge arrow",
+   "moylan arrow",
+   "gas cap side",
+   "car hacks",
+   "car facts",
+   "how cars work",
+   "car design history",
+   "hidden gears"
+  ],
   "comentario_fijado": "Did you already know about the arrow, or did you just check your dashboard?"
  },
  "v04": {
-  "fecha": "2026-12-03", "hora": "18:00", "tema": "keyboard-f-j-bumps",
+  "fecha": "2026-12-03",
+  "hora": "18:00",
+  "tema": "keyboard-f-j-bumps",
   "titulo": "F and J Bumps: The Real Reason They Exist",
   "descripcion": "The small bumps on F and J mark the home row, so your index fingers can find their place by touch and you can type without looking. The number pad has the same trick on the 5 key.\n\nSources: Computer Hope, Why are there bumps on the F and J keyboard keys? (computerhope.com) · Mental Floss, The reason for bumps on computer keys (mentalfloss.com).",
-  "hashtags": ["#Shorts", "#TechFacts", "#HowItWorks"],
-  "etiquetas": ["F and J bumps", "keyboard bumps", "home row keys", "touch typing", "keyboard facts", "tech facts", "how keyboards work", "hidden gears"],
+  "hashtags": [
+   "#Shorts",
+   "#TechFacts",
+   "#HowItWorks"
+  ],
+  "etiquetas": [
+   "F and J bumps",
+   "keyboard bumps",
+   "home row keys",
+   "touch typing",
+   "keyboard facts",
+   "tech facts",
+   "how keyboards work",
+   "hidden gears"
+  ],
   "comentario_fijado": "Can you type without looking? Test it: type this comment with your eyes closed."
+ },
+ "v05": {
+  "fecha": "2026-12-04",
+  "hora": "18:00",
+  "tema": "train-wheels-cones",
+  "titulo": "Train Wheels: Why They're Actually Cones",
+  "descripcion": "Train wheels are slightly cone-shaped. In a curve the outer wheel rolls on its wider part and covers more distance, so a train turns without a differential, and on straight track the cones keep it centered.\n\nSources: Practical Engineering, Why are rails shaped like that? (practical.engineering) · Train wheel, Wikipedia.",
+  "hashtags": [
+   "#Shorts",
+   "#Engineering",
+   "#Trains"
+  ],
+  "etiquetas": [
+   "train wheels",
+   "conical wheels",
+   "how trains turn",
+   "railway engineering",
+   "engineering explained",
+   "why train wheels are cones",
+   "hidden gears"
+  ],
+  "comentario_fijado": "Would you rather ride a train or drive for a 5-hour trip? Why?"
+ },
+ "v06": {
+  "fecha": "2026-12-05",
+  "hora": "18:00",
+  "tema": "microwave-door-mesh",
+  "titulo": "Microwave Door Holes: Why the Waves Can't Escape",
+  "descripcion": "The metal mesh in a microwave door has holes of about 2 mm, while the oven's waves are about 12 cm long. The mesh reflects most of the microwaves back inside, but visible light is thousands of times smaller and passes through.\n\nSources: Mental Floss, The mesh grate on your microwave is a safety feature (mentalfloss.com) · US Patent 3544751A, microwave oven door seal (patents.google.com).",
+  "hashtags": [
+   "#Shorts",
+   "#Science",
+   "#HowItWorks"
+  ],
+  "etiquetas": [
+   "microwave door mesh",
+   "microwave holes",
+   "how microwaves work",
+   "kitchen science",
+   "physics explained",
+   "science facts",
+   "hidden gears"
+  ],
+  "comentario_fijado": "Be honest: do you stare at the microwave while it runs?"
+ },
+ "v07": {
+  "fecha": "2026-12-06",
+  "hora": "18:00",
+  "tema": "qr-code-squares",
+  "titulo": "QR Code Squares: What the 3 Corners Actually Do",
+  "descripcion": "The three big squares on a QR code are finder patterns. They tell the camera where the code is, how big it is and which way is up, so it scans at any angle. QR codes were created in 1994 to track car parts.\n\nSources: Britannica, QR code (britannica.com) · Keyence, What is a QR code? (keyence.com).",
+  "hashtags": [
+   "#Shorts",
+   "#TechFacts",
+   "#HowItWorks"
+  ],
+  "etiquetas": [
+   "QR code",
+   "QR code squares",
+   "finder pattern",
+   "how QR codes work",
+   "tech facts",
+   "technology explained",
+   "hidden gears"
+  ],
+  "comentario_fijado": "What's the weirdest place you've ever seen a QR code?"
+ },
+ "v08": {
+  "fecha": "2026-12-07",
+  "hora": "18:00",
+  "tema": "soda-can-dome",
+  "titulo": "Soda Can Bottom: Why It Curves Inward",
+  "descripcion": "A soda can wall is about 0.1 mm thick but holds up to roughly 90 psi. The domed bottom works like an arch, resisting the pressure with less metal than a flat bottom would need.\n\nSources: The Christian Science Monitor, The surprising science behind the aluminum soda can (csmonitor.com) · 99% Invisible (99percentinvisible.org) · US patents on domed can bottoms.",
+  "hashtags": [
+   "#Shorts",
+   "#Engineering",
+   "#HowItWorks"
+  ],
+  "etiquetas": [
+   "soda can",
+   "soda can bottom",
+   "why cans are domed",
+   "can engineering",
+   "everyday design",
+   "engineering explained",
+   "hidden gears"
+  ],
+  "comentario_fijado": "Can or bottle: which one tastes better to you?"
+ },
+ "v09": {
+  "fecha": "2026-12-08",
+  "hora": "18:00",
+  "tema": "plug-prong-holes",
+  "titulo": "Plug Prong Holes: The Real Reason They're There",
+  "descripcion": "The US plug standard (NEMA) says the hole in a flat prong is optional and intended for manufacturing. Some early outlets had bumps that clicked into the holes, and today the holes can also take a lock or a warning tag.\n\nSources: HowStuffWorks, Why do electrical prongs have holes in them? (howstuffworks.com) · Mental Floss, Why do electrical plugs have holes in the prongs? (mentalfloss.com).",
+  "hashtags": [
+   "#Shorts",
+   "#HowItWorks",
+   "#DesignSecrets"
+  ],
+  "etiquetas": [
+   "plug prong holes",
+   "electrical plug",
+   "why plugs have holes",
+   "NEMA plug",
+   "everyday design",
+   "hidden design",
+   "hidden gears"
+  ],
+  "comentario_fijado": "Which everyday object should I explain next?"
+ },
+ "v10": {
+  "fecha": "2026-12-09",
+  "hora": "18:00",
+  "tema": "botts-dots",
+  "titulo": "Botts' Dots: The 20 Million Bumps on California Roads",
+  "descripcion": "Botts' dots are the raised markers between lanes, named after California highway researcher Elbert Botts. They stayed visible when paint wore off or rain hid it, but Caltrans is now phasing them out in favor of reflective paint.\n\nSources: Botts' dots, Wikipedia · 99% Invisible, End of the road for Botts' Dots (99percentinvisible.org).",
+  "hashtags": [
+   "#Shorts",
+   "#RoadFacts",
+   "#Engineering"
+  ],
+  "etiquetas": [
+   "Botts dots",
+   "road bumps",
+   "lane markers",
+   "California roads",
+   "highway engineering",
+   "driving facts",
+   "hidden gears"
+  ],
+  "comentario_fijado": "Do Botts' dots help you or just annoy you on the highway?"
+ },
+ "v11": {
+  "fecha": "2026-12-10",
+  "hora": "18:00",
+  "tema": "gas-pump-shutoff",
+  "titulo": "Gas Pump Click: How the Nozzle Knows Your Tank Is Full",
+  "descripcion": "A gas pump nozzle shuts off without electronics. Fuel flowing through it pulls air in through a tiny hole near the tip; when fuel covers that hole, suction builds, pulls a diaphragm and trips a latch.\n\nSources: US Patent 2138380, Automatic nozzle (patents.google.com) · US Patent 4453578, automatic shut-off dispensing nozzle (uspto.gov).",
+  "hashtags": [
+   "#Shorts",
+   "#CarFacts",
+   "#HowItWorks"
+  ],
+  "etiquetas": [
+   "gas pump",
+   "gas nozzle shut off",
+   "how gas pumps work",
+   "fuel nozzle",
+   "car facts",
+   "engineering explained",
+   "hidden gears"
+  ],
+  "comentario_fijado": "Do you top off after the click, or stop right away?"
  }
 }

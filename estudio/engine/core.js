@@ -54,7 +54,7 @@ function light(ctx, mode, t) {
   ctx.save();
   if (mode === 'night') {
     ctx.globalCompositeOperation = 'multiply';
-    ctx.fillStyle = 'rgba(70,95,170,0.42)'; ctx.fillRect(0, 0, W, H);
+    ctx.fillStyle = 'rgba(70,95,170,0.28)'; ctx.fillRect(0, 0, W, H); // v2: más claro (brillo 100-122)
     ctx.globalCompositeOperation = 'screen';
     const g = ctx.createRadialGradient(W * 0.75, H * 0.2, 50, W * 0.75, H * 0.2, H * 0.7);
     g.addColorStop(0, 'rgba(90,200,255,0.22)'); g.addColorStop(1, 'rgba(0,0,0,0)');
@@ -148,8 +148,10 @@ function drawSubs(ctx, words, blocks, tMs) {
   ctx.translate(W * SUB.cx, H * SUB.cy); const sc = 0.82 + 0.18 * pop; ctx.scale(sc, sc); ctx.translate(-W * SUB.cx, -H * SUB.cy);
   lines.forEach((ln, li) => {
     const tw = ln.reduce((a, t) => a + t.w, 0) + space * (ln.length - 1);
+    const sq = Math.min(1, (W * SUB.maxW) / tw); // estrecha en horizontal si la línea no cabe
     let x = W * SUB.cx - tw / 2; const y = y0 + li * lh;
-    box.x0 = Math.min(box.x0, x); box.x1 = Math.max(box.x1, x + tw);
+    box.x0 = Math.min(box.x0, W * SUB.cx - tw * sq / 2); box.x1 = Math.max(box.x1, W * SUB.cx + tw * sq / 2);
+    ctx.save(); ctx.translate(W * SUB.cx, 0); ctx.scale(sq, 1); ctx.translate(-W * SUB.cx, 0);
     for (const tk of ln) {
       const active = tMs >= words[tk.i][1] - 60 && tMs < (words[tk.i + 1] ? words[tk.i + 1][1] - 60 : words[tk.i][2] + 300);
       const said = tMs >= words[tk.i][1] - 60;
@@ -159,6 +161,7 @@ function drawSubs(ctx, words, blocks, tMs) {
       ctx.restore();
       x += tk.w + space;
     }
+    ctx.restore();
   });
   ctx.restore();
   return box;
@@ -176,7 +179,7 @@ function drawShot(ctx, video, shot, k, tShot, dur, tGlobal) {
   // velocidad nunca cero dentro del plano: mezcla lineal + suave
   const cam = camLerp(shot.cam[0], shot.cam[1], 0.65 * p + 0.35 * ease(p));
   // empuje lento continuo (acercamiento en cada pausa)
-  cam.z *= 1 + 0.07 * p;
+  const mb = video.motionBoost || 1; cam.z *= 1 + 0.11 * mb * p; cam.r += 0.012 * mb * (p - 0.5); cam.x += 70 * (mb - 1) * (p - 0.5);
   ctx.save();
   ctx.fillStyle = shot.bgColor || C.night; ctx.fillRect(0, 0, W, H);
   if (shot.bg) {
@@ -203,7 +206,7 @@ async function render(video, outFile, opts = {}) {
   const times = shotTimes(video);
   const blocks = chunkWords(video.words);
   const main = createCanvas(W, H), ctx = main.getContext('2d');
-  const A = createCanvas(W, H), B = createCanvas(W, H);
+  const A = createCanvas(W, H), B = createCanvas(W, H), GRADE = createCanvas(W, H);
   const meta = { primer_texto_s: 0, subtitulo_altura_letra_pct: +(100 * SUB.size / H).toFixed(2), subtitulo_centro_y_pct: SUB.cy * 100, texto_bajo_20pct_inferior: false, texto_en_margen_derecho: false, planos: times.map(x => +x.s.toFixed(2)) };
   const only = opts.frames; // lista de fotogramas para revisar
   let ff = null;
@@ -236,6 +239,7 @@ async function render(video, outFile, opts = {}) {
     } else {
       drawShot(ctx, video, sh, k, t - tm.s, tm.e - tm.s, t);
     }
+    if (video.grade) { const gc = GRADE.getContext('2d'); gc.filter = `brightness(${video.grade.b || 1}) saturate(${video.grade.s || 1})`; gc.drawImage(main, 0, 0); gc.filter = 'none'; ctx.drawImage(GRADE, 0, 0); }
     const tb = video.title ? drawTitle(ctx, video.title, t) : null;
     const sb = drawSubs(ctx, video.words, blocks, t * 1000);
     if (sb) { if (sb.y1 > H * 0.8) meta.texto_bajo_20pct_inferior = true; if (sb.x1 * 1.0 > W * 0.86) meta.texto_en_margen_derecho = true; }

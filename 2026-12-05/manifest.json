@@ -1,0 +1,36 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-12-05",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-05_1_microwave-door-mesh.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-05/2026-12-05_1_microwave-door-mesh.mp4",
+      "publicar_en": "2026-12-05T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Microwave Door Holes: Why the Waves Can't Escape",
+      "descripcion": "The metal mesh in a microwave door has holes of about 2 mm, while the oven's waves are about 12 cm long. The mesh reflects most of the microwaves back inside, but visible light is thousands of times smaller and passes through.\n\nSources: Mental Floss, The mesh grate on your microwave is a safety feature (mentalfloss.com) · US Patent 3544751A, microwave oven door seal (patents.google.com).\n\n#Shorts #Science #HowItWorks",
+      "hashtags": [
+        "#Shorts",
+        "#Science",
+        "#HowItWorks"
+      ],
+      "etiquetas": [
+        "microwave door mesh",
+        "microwave holes",
+        "how microwaves work",
+        "kitchen science",
+        "physics explained",
+        "science facts",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Be honest: do you stare at the microwave while it runs?",
+      "duracion_s": 36
+    }
+  ]
+}

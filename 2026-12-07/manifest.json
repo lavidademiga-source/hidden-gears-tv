@@ -1,0 +1,36 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-12-07",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-07_1_soda-can-dome.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-07/2026-12-07_1_soda-can-dome.mp4",
+      "publicar_en": "2026-12-07T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Soda Can Bottom: Why It Curves Inward",
+      "descripcion": "A soda can wall is about 0.1 mm thick but holds up to roughly 90 psi. The domed bottom works like an arch, resisting the pressure with less metal than a flat bottom would need.\n\nSources: The Christian Science Monitor, The surprising science behind the aluminum soda can (csmonitor.com) · 99% Invisible (99percentinvisible.org) · US patents on domed can bottoms.\n\n#Shorts #Engineering #HowItWorks",
+      "hashtags": [
+        "#Shorts",
+        "#Engineering",
+        "#HowItWorks"
+      ],
+      "etiquetas": [
+        "soda can",
+        "soda can bottom",
+        "why cans are domed",
+        "can engineering",
+        "everyday design",
+        "engineering explained",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Can or bottle: which one tastes better to you?",
+      "duracion_s": 35
+    }
+  ]
+}
