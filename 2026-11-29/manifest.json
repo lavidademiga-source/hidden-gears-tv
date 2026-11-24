@@ -1,0 +1,36 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-11-29",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-29_1_padlock-bottom-hole.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-11-29/2026-11-29_1_padlock-bottom-hole.mp4",
+      "publicar_en": "2026-11-29T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Padlock Hole: The Real Reason It's on the Bottom",
+      "descripcion": "That tiny hole under a padlock is not a keyhole. It mainly drains rain that gets in through the keyhole, so the lock rusts less and doesn't freeze shut. Some lock makers also suggest lubricating through it.\n\nSources: House Digest, What is the tiny hole on the bottom of a padlock for? (housedigest.com) · Monroe Engineering, Why padlocks have a small hole on the bottom (monroeengineering.com).\n\n#Shorts #HowItWorks #Engineering",
+      "hashtags": [
+        "#Shorts",
+        "#HowItWorks",
+        "#Engineering"
+      ],
+      "etiquetas": [
+        "padlock hole",
+        "padlock drainage hole",
+        "how padlocks work",
+        "everyday design",
+        "engineering explained",
+        "why padlocks have a hole",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "What everyday object do you think has a secret design trick? I'll try to explain the best one.",
+      "duracion_s": 35
+    }
+  ]
+}

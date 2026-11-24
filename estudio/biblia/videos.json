@@ -1,0 +1,34 @@
+{
+ "v01": {
+  "fecha": "2026-11-27", "hora": "18:00", "tema": "airplane-window-hole",
+  "titulo": "Airplane Window Hole: Why It's There On Purpose",
+  "descripcion": "Every airplane window has a tiny hole in the middle pane. It keeps cabin pressure on the outer pane, so the middle one stays a fresh backup, and it lets moisture out so the window doesn't fog.\n\nSources: Mental Floss, Why do airplane windows have tiny holes? (mentalfloss.com) · AFAR, Why airplane windows have tiny holes (afar.com) · Cabin pressurization, Wikipedia.",
+  "hashtags": ["#Shorts", "#HowItWorks", "#Aviation"],
+  "etiquetas": ["airplane window hole", "breather hole", "how airplane windows work", "cabin pressure", "aviation facts", "engineering explained", "why is there a hole in plane windows", "hidden gears"],
+  "comentario_fijado": "Window seat or aisle seat, and why? Be honest."
+ },
+ "v02": {
+  "fecha": "2026-11-29", "hora": "18:00", "tema": "padlock-bottom-hole",
+  "titulo": "Padlock Hole: The Real Reason It's on the Bottom",
+  "descripcion": "That tiny hole under a padlock is not a keyhole. It mainly drains rain that gets in through the keyhole, so the lock rusts less and doesn't freeze shut. Some lock makers also suggest lubricating through it.\n\nSources: House Digest, What is the tiny hole on the bottom of a padlock for? (housedigest.com) · Monroe Engineering, Why padlocks have a small hole on the bottom (monroeengineering.com).",
+  "hashtags": ["#Shorts", "#HowItWorks", "#Engineering"],
+  "etiquetas": ["padlock hole", "padlock drainage hole", "how padlocks work", "everyday design", "engineering explained", "why padlocks have a hole", "hidden gears"],
+  "comentario_fijado": "What everyday object do you think has a secret design trick? I'll try to explain the best one."
+ },
+ "v03": {
+  "fecha": "2026-12-01", "hora": "18:00", "tema": "fuel-gauge-arrow",
+  "titulo": "Fuel Gauge Arrow: The Real Story Behind It",
+  "descripcion": "The little triangle next to your fuel gauge points to the side of your gas cap. Ford designer Jim Moylan proposed it in a 1986 memo after a rainy trip to the pump, and it first appeared on 1989 Ford models.\n\nSources: Motor1, What that little arrow next to the fuel gauge actually means (motor1.com) · The Drive, The Moylan Arrow is one of Ford's best contributions to car design (thedrive.com).",
+  "hashtags": ["#Shorts", "#CarFacts", "#HowItWorks"],
+  "etiquetas": ["fuel gauge arrow", "moylan arrow", "gas cap side", "car hacks", "car facts", "how cars work", "car design history", "hidden gears"],
+  "comentario_fijado": "Did you already know about the arrow, or did you just check your dashboard?"
+ },
+ "v04": {
+  "fecha": "2026-12-03", "hora": "18:00", "tema": "keyboard-f-j-bumps",
+  "titulo": "F and J Bumps: The Real Reason They Exist",
+  "descripcion": "The small bumps on F and J mark the home row, so your index fingers can find their place by touch and you can type without looking. The number pad has the same trick on the 5 key.\n\nSources: Computer Hope, Why are there bumps on the F and J keyboard keys? (computerhope.com) · Mental Floss, The reason for bumps on computer keys (mentalfloss.com).",
+  "hashtags": ["#Shorts", "#TechFacts", "#HowItWorks"],
+  "etiquetas": ["F and J bumps", "keyboard bumps", "home row keys", "touch typing", "keyboard facts", "tech facts", "how keyboards work", "hidden gears"],
+  "comentario_fijado": "Can you type without looking? Test it: type this comment with your eyes closed."
+ }
+}

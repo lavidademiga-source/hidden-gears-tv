@@ -1,0 +1,37 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-12-01",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-01_1_fuel-gauge-arrow.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-01/2026-12-01_1_fuel-gauge-arrow.mp4",
+      "publicar_en": "2026-12-01T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Fuel Gauge Arrow: The Real Story Behind It",
+      "descripcion": "The little triangle next to your fuel gauge points to the side of your gas cap. Ford designer Jim Moylan proposed it in a 1986 memo after a rainy trip to the pump, and it first appeared on 1989 Ford models.\n\nSources: Motor1, What that little arrow next to the fuel gauge actually means (motor1.com) · The Drive, The Moylan Arrow is one of Ford's best contributions to car design (thedrive.com).\n\n#Shorts #CarFacts #HowItWorks",
+      "hashtags": [
+        "#Shorts",
+        "#CarFacts",
+        "#HowItWorks"
+      ],
+      "etiquetas": [
+        "fuel gauge arrow",
+        "moylan arrow",
+        "gas cap side",
+        "car hacks",
+        "car facts",
+        "how cars work",
+        "car design history",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Did you already know about the arrow, or did you just check your dashboard?",
+      "duracion_s": 37
+    }
+  ]
+}
