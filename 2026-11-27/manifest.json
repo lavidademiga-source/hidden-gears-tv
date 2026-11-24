@@ -1,0 +1,37 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-11-27",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-27_1_airplane-window-hole.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-11-27/2026-11-27_1_airplane-window-hole.mp4",
+      "publicar_en": "2026-11-27T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Airplane Window Hole: Why It's There On Purpose",
+      "descripcion": "Every airplane window has a tiny hole in the middle pane. It keeps cabin pressure on the outer pane, so the middle one stays a fresh backup, and it lets moisture out so the window doesn't fog.\n\nSources: Mental Floss, Why do airplane windows have tiny holes? (mentalfloss.com) · AFAR, Why airplane windows have tiny holes (afar.com) · Cabin pressurization, Wikipedia.\n\n#Shorts #HowItWorks #Aviation",
+      "hashtags": [
+        "#Shorts",
+        "#HowItWorks",
+        "#Aviation"
+      ],
+      "etiquetas": [
+        "airplane window hole",
+        "breather hole",
+        "how airplane windows work",
+        "cabin pressure",
+        "aviation facts",
+        "engineering explained",
+        "why is there a hole in plane windows",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Window seat or aisle seat, and why? Be honest.",
+      "duracion_s": 37
+    }
+  ]
+}
