@@ -1,0 +1,132 @@
+{
+ "duracion_s": 16.876667,
+ "tamano_mb": 2.942134,
+ "video_codec": "h264",
+ "ancho": 384,
+ "alto": 848,
+ "fps": "60/1",
+ "audio_codec": "aac",
+ "fotogramas_analizados": 506,
+ "cortes_duros": 1,
+ "cortes_duros_t": [
+  0.03
+ ],
+ "pct_camara_en_movimiento": 87.0,
+ "movimientos": 41,
+ "duracion_media_movimiento_s": 0.36,
+ "por_segundo": [
+  {
+   "s": 0,
+   "brillo": 148.0,
+   "contraste": 57.1,
+   "saturacion": 0.357
+  },
+  {
+   "s": 1,
+   "brillo": 162.2,
+   "contraste": 53.7,
+   "saturacion": 0.262
+  },
+  {
+   "s": 2,
+   "brillo": 153.7,
+   "contraste": 60.0,
+   "saturacion": 0.286
+  },
+  {
+   "s": 3,
+   "brillo": 155.6,
+   "contraste": 56.2,
+   "saturacion": 0.29
+  },
+  {
+   "s": 4,
+   "brillo": 153.0,
+   "contraste": 52.3,
+   "saturacion": 0.403
+  },
+  {
+   "s": 5,
+   "brillo": 142.2,
+   "contraste": 59.9,
+   "saturacion": 0.354
+  },
+  {
+   "s": 6,
+   "brillo": 130.7,
+   "contraste": 48.3,
+   "saturacion": 0.2
+  },
+  {
+   "s": 7,
+   "brillo": 113.0,
+   "contraste": 38.9,
+   "saturacion": 0.389
+  },
+  {
+   "s": 8,
+   "brillo": 107.5,
+   "contraste": 43.1,
+   "saturacion": 0.499
+  },
+  {
+   "s": 9,
+   "brillo": 109.8,
+   "contraste": 42.5,
+   "saturacion": 0.518
+  },
+  {
+   "s": 10,
+   "brillo": 110.3,
+   "contraste": 41.4,
+   "saturacion": 0.519
+  },
+  {
+   "s": 11,
+   "brillo": 133.8,
+   "contraste": 44.3,
+   "saturacion": 0.195
+  },
+  {
+   "s": 12,
+   "brillo": 145.0,
+   "contraste": 54.7,
+   "saturacion": 0.228
+  },
+  {
+   "s": 13,
+   "brillo": 115.4,
+   "contraste": 66.2,
+   "saturacion": 0.375
+  },
+  {
+   "s": 14,
+   "brillo": 81.2,
+   "contraste": 69.7,
+   "saturacion": 0.213
+  },
+  {
+   "s": 15,
+   "brillo": 104.4,
+   "contraste": 73.6,
+   "saturacion": 0.027
+  },
+  {
+   "s": 16,
+   "brillo": 106.8,
+   "contraste": 71.6,
+   "saturacion": 0.011
+  }
+ ],
+ "brillo_medio": 128.0,
+ "contraste_medio": 54.8,
+ "saturacion_media": 0.304,
+ "primer_texto_s_aprox": 0.0,
+ "subtitulo_banda_y_pct_aprox": [
+  90.8,
+  93.4
+ ],
+ "silencios_audio_mezcla": 0,
+ "lufs_integrado": -14.5,
+ "pico_verdadero_dbtp": -2.1
+}

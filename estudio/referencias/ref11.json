@@ -1,0 +1,154 @@
+{
+ "duracion_s": 20.903333,
+ "tamano_mb": 3.632919,
+ "video_codec": "h264",
+ "ancho": 384,
+ "alto": 848,
+ "fps": "60/1",
+ "audio_codec": "aac",
+ "fotogramas_analizados": 627,
+ "cortes_duros": 0,
+ "cortes_duros_t": [],
+ "pct_camara_en_movimiento": 74.6,
+ "movimientos": 115,
+ "duracion_media_movimiento_s": 0.14,
+ "por_segundo": [
+  {
+   "s": 0,
+   "brillo": 111.3,
+   "contraste": 44.3,
+   "saturacion": 0.213
+  },
+  {
+   "s": 1,
+   "brillo": 145.4,
+   "contraste": 37.5,
+   "saturacion": 0.073
+  },
+  {
+   "s": 2,
+   "brillo": 122.5,
+   "contraste": 46.7,
+   "saturacion": 0.143
+  },
+  {
+   "s": 3,
+   "brillo": 66.6,
+   "contraste": 44.3,
+   "saturacion": 0.304
+  },
+  {
+   "s": 4,
+   "brillo": 57.7,
+   "contraste": 41.6,
+   "saturacion": 0.397
+  },
+  {
+   "s": 5,
+   "brillo": 84.7,
+   "contraste": 48.0,
+   "saturacion": 0.461
+  },
+  {
+   "s": 6,
+   "brillo": 141.2,
+   "contraste": 40.8,
+   "saturacion": 0.131
+  },
+  {
+   "s": 7,
+   "brillo": 162.3,
+   "contraste": 42.5,
+   "saturacion": 0.059
+  },
+  {
+   "s": 8,
+   "brillo": 153.7,
+   "contraste": 38.0,
+   "saturacion": 0.065
+  },
+  {
+   "s": 9,
+   "brillo": 146.8,
+   "contraste": 32.9,
+   "saturacion": 0.072
+  },
+  {
+   "s": 10,
+   "brillo": 146.7,
+   "contraste": 34.3,
+   "saturacion": 0.076
+  },
+  {
+   "s": 11,
+   "brillo": 147.0,
+   "contraste": 34.9,
+   "saturacion": 0.078
+  },
+  {
+   "s": 12,
+   "brillo": 157.0,
+   "contraste": 44.2,
+   "saturacion": 0.065
+  },
+  {
+   "s": 13,
+   "brillo": 159.0,
+   "contraste": 54.5,
+   "saturacion": 0.084
+  },
+  {
+   "s": 14,
+   "brillo": 160.8,
+   "contraste": 54.1,
+   "saturacion": 0.09
+  },
+  {
+   "s": 15,
+   "brillo": 166.0,
+   "contraste": 51.5,
+   "saturacion": 0.096
+  },
+  {
+   "s": 16,
+   "brillo": 166.5,
+   "contraste": 48.8,
+   "saturacion": 0.061
+  },
+  {
+   "s": 17,
+   "brillo": 87.2,
+   "contraste": 44.0,
+   "saturacion": 0.264
+  },
+  {
+   "s": 18,
+   "brillo": 47.2,
+   "contraste": 38.5,
+   "saturacion": 0.357
+  },
+  {
+   "s": 19,
+   "brillo": 65.6,
+   "contraste": 57.6,
+   "saturacion": 0.332
+  },
+  {
+   "s": 20,
+   "brillo": 74.8,
+   "contraste": 62.1,
+   "saturacion": 0.316
+  }
+ ],
+ "brillo_medio": 122.6,
+ "contraste_medio": 44.7,
+ "saturacion_media": 0.177,
+ "primer_texto_s_aprox": 1.37,
+ "subtitulo_banda_y_pct_aprox": [
+  90.4,
+  93.6
+ ],
+ "silencios_audio_mezcla": 1,
+ "lufs_integrado": -15.1,
+ "pico_verdadero_dbtp": 0.4
+}

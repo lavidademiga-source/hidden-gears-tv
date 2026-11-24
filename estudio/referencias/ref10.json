@@ -1,0 +1,189 @@
+{
+ "duracion_s": 25.928333,
+ "tamano_mb": 4.485895,
+ "video_codec": "h264",
+ "ancho": 384,
+ "alto": 848,
+ "fps": "60/1",
+ "audio_codec": "aac",
+ "fotogramas_analizados": 778,
+ "cortes_duros": 4,
+ "cortes_duros_t": [
+  2.47,
+  6.77,
+  11.0,
+  24.17
+ ],
+ "pct_camara_en_movimiento": 86.0,
+ "movimientos": 31,
+ "duracion_media_movimiento_s": 0.72,
+ "por_segundo": [
+  {
+   "s": 0,
+   "brillo": 100.2,
+   "contraste": 45.6,
+   "saturacion": 0.345
+  },
+  {
+   "s": 1,
+   "brillo": 114.2,
+   "contraste": 37.1,
+   "saturacion": 0.619
+  },
+  {
+   "s": 2,
+   "brillo": 108.9,
+   "contraste": 40.1,
+   "saturacion": 0.629
+  },
+  {
+   "s": 3,
+   "brillo": 82.9,
+   "contraste": 33.4,
+   "saturacion": 0.391
+  },
+  {
+   "s": 4,
+   "brillo": 89.7,
+   "contraste": 30.1,
+   "saturacion": 0.411
+  },
+  {
+   "s": 5,
+   "brillo": 90.7,
+   "contraste": 34.7,
+   "saturacion": 0.358
+  },
+  {
+   "s": 6,
+   "brillo": 117.9,
+   "contraste": 54.5,
+   "saturacion": 0.27
+  },
+  {
+   "s": 7,
+   "brillo": 91.0,
+   "contraste": 55.2,
+   "saturacion": 0.267
+  },
+  {
+   "s": 8,
+   "brillo": 105.0,
+   "contraste": 49.9,
+   "saturacion": 0.251
+  },
+  {
+   "s": 9,
+   "brillo": 113.7,
+   "contraste": 44.2,
+   "saturacion": 0.273
+  },
+  {
+   "s": 10,
+   "brillo": 81.3,
+   "contraste": 47.1,
+   "saturacion": 0.195
+  },
+  {
+   "s": 11,
+   "brillo": 112.5,
+   "contraste": 59.3,
+   "saturacion": 0.223
+  },
+  {
+   "s": 12,
+   "brillo": 102.8,
+   "contraste": 57.5,
+   "saturacion": 0.198
+  },
+  {
+   "s": 13,
+   "brillo": 106.2,
+   "contraste": 51.7,
+   "saturacion": 0.343
+  },
+  {
+   "s": 14,
+   "brillo": 91.3,
+   "contraste": 42.3,
+   "saturacion": 0.396
+  },
+  {
+   "s": 15,
+   "brillo": 77.1,
+   "contraste": 47.4,
+   "saturacion": 0.271
+  },
+  {
+   "s": 16,
+   "brillo": 85.7,
+   "contraste": 49.1,
+   "saturacion": 0.244
+  },
+  {
+   "s": 17,
+   "brillo": 99.0,
+   "contraste": 49.0,
+   "saturacion": 0.26
+  },
+  {
+   "s": 18,
+   "brillo": 108.2,
+   "contraste": 44.8,
+   "saturacion": 0.27
+  },
+  {
+   "s": 19,
+   "brillo": 110.3,
+   "contraste": 51.5,
+   "saturacion": 0.25
+  },
+  {
+   "s": 20,
+   "brillo": 142.7,
+   "contraste": 62.8,
+   "saturacion": 0.162
+  },
+  {
+   "s": 21,
+   "brillo": 110.4,
+   "contraste": 47.0,
+   "saturacion": 0.189
+  },
+  {
+   "s": 22,
+   "brillo": 99.7,
+   "contraste": 41.7,
+   "saturacion": 0.214
+  },
+  {
+   "s": 23,
+   "brillo": 125.7,
+   "contraste": 61.3,
+   "saturacion": 0.18
+  },
+  {
+   "s": 24,
+   "brillo": 122.6,
+   "contraste": 45.6,
+   "saturacion": 0.394
+  },
+  {
+   "s": 25,
+   "brillo": 113.7,
+   "contraste": 46.9,
+   "saturacion": 0.33
+  }
+ ],
+ "brillo_medio": 104.0,
+ "contraste_medio": 47.3,
+ "saturacion_media": 0.305,
+ "primer_texto_s_aprox": 0.0,
+ "subtitulo_banda_y_pct_aprox": [
+  93.2,
+  95.7
+ ],
+ "silencios_audio_mezcla": 0,
+ "lufs_integrado": -14.1,
+ "pico_verdadero_dbtp": -3.0
+}

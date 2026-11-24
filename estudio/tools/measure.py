@@ -37,8 +37,12 @@ def ffprobe(path):
     }
 
 
+CROP = None
+
+
 def frames(path):
-    cmd = ["ffmpeg", "-v", "error", "-i", path, "-vf", f"fps={FPS},scale={AW}:{AH}",
+    vf = (f"crop={CROP}," if CROP else "") + f"fps={FPS},scale={AW}:{AH}"
+    cmd = ["ffmpeg", "-v", "error", "-i", path, "-vf", vf,
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-"]
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE)
     n = AW * AH * 3
@@ -131,7 +135,13 @@ def main():
     ap.add_argument("--words")
     ap.add_argument("--meta")
     ap.add_argument("--json")
+    ap.add_argument("--crop", help="w:h:x:y en píxeles del vídeo original (grabaciones de pantalla)")
     a = ap.parse_args()
+    global CROP, AW, AH
+    if a.crop:
+        CROP = a.crop
+        w, h = [int(v) for v in a.crop.split(":")[:2]]
+        AW = 270; AH = int(round(270 * h / w / 2) * 2)
 
     res = ffprobe(a.video)
     rows = analyse_frames(a.video)
