@@ -1,0 +1,37 @@
+{
+  "canal": "Hidden Gears",
+  "fecha": "2026-11-28",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-28_1_keyboard-f-j-bumps.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-11-28/2026-11-28_1_keyboard-f-j-bumps.mp4",
+      "publicar_en": "2026-11-28T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "F and J Bumps: The Real Reason They Exist",
+      "descripcion": "The small bumps on F and J mark the home row, so your index fingers can find their place by touch and you can type without looking. The number pad has the same trick on the 5 key.\n\nSources: Computer Hope, Why are there bumps on the F and J keyboard keys? (computerhope.com) · Mental Floss, The reason for bumps on computer keys (mentalfloss.com).\n\n#Shorts #TechFacts #HowItWorks",
+      "hashtags": [
+        "#Shorts",
+        "#TechFacts",
+        "#HowItWorks"
+      ],
+      "etiquetas": [
+        "F and J bumps",
+        "keyboard bumps",
+        "home row keys",
+        "touch typing",
+        "keyboard facts",
+        "tech facts",
+        "how keyboards work",
+        "hidden gears"
+      ],
+      "categoria_id": "28",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Can you type without looking? Test it: type this comment with your eyes closed.",
+      "duracion_s": 37
+    }
+  ]
+}

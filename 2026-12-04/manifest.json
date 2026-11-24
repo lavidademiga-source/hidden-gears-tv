@@ -4,24 +4,24 @@
   "videos": [
     {
       "orden": 1,
-      "archivo": "2026-12-04_1_train-wheels-cones.mp4",
-      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-04/2026-12-04_1_train-wheels-cones.mp4",
+      "archivo": "2026-12-04_1_botts-dots.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-04/2026-12-04_1_botts-dots.mp4",
       "publicar_en": "2026-12-04T18:00:00+01:00",
       "zona_horaria": "Europe/Madrid",
-      "titulo": "Train Wheels: Why They're Actually Cones",
-      "descripcion": "Train wheels are slightly cone-shaped. In a curve the outer wheel rolls on its wider part and covers more distance, so a train turns without a differential, and on straight track the cones keep it centered.\n\nSources: Practical Engineering, Why are rails shaped like that? (practical.engineering) · Train wheel, Wikipedia.\n\n#Shorts #Engineering #Trains",
+      "titulo": "Botts' Dots: The 20 Million Bumps on California Roads",
+      "descripcion": "Botts' dots are the raised markers between lanes, named after California highway researcher Elbert Botts. They stayed visible when paint wore off or rain hid it, but Caltrans is now phasing them out in favor of reflective paint.\n\nSources: Botts' dots, Wikipedia · 99% Invisible, End of the road for Botts' Dots (99percentinvisible.org).\n\n#Shorts #RoadFacts #Engineering",
       "hashtags": [
         "#Shorts",
-        "#Engineering",
-        "#Trains"
+        "#RoadFacts",
+        "#Engineering"
       ],
       "etiquetas": [
-        "train wheels",
-        "conical wheels",
-        "how trains turn",
-        "railway engineering",
-        "engineering explained",
-        "why train wheels are cones",
+        "Botts dots",
+        "road bumps",
+        "lane markers",
+        "California roads",
+        "highway engineering",
+        "driving facts",
         "hidden gears"
       ],
       "categoria_id": "28",
@@ -29,7 +29,7 @@
       "para_ninos": false,
       "contenido_sintetico_realista": false,
       "privacidad_hasta_publicar": "private",
-      "comentario_fijado": "Would you rather ride a train or drive for a 5-hour trip? Why?",
+      "comentario_fijado": "Do Botts' dots help you or just annoy you on the highway?",
       "duracion_s": 35
     }
   ]

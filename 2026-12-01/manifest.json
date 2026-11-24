@@ -4,25 +4,24 @@
   "videos": [
     {
       "orden": 1,
-      "archivo": "2026-12-01_1_fuel-gauge-arrow.mp4",
-      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-01/2026-12-01_1_fuel-gauge-arrow.mp4",
+      "archivo": "2026-12-01_1_qr-code-squares.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/hidden-gears-tv/main/2026-12-01/2026-12-01_1_qr-code-squares.mp4",
       "publicar_en": "2026-12-01T18:00:00+01:00",
       "zona_horaria": "Europe/Madrid",
-      "titulo": "Fuel Gauge Arrow: The Real Story Behind It",
-      "descripcion": "The little triangle next to your fuel gauge points to the side of your gas cap. Ford designer Jim Moylan proposed it in a 1986 memo after a rainy trip to the pump, and it first appeared on 1989 Ford models.\n\nSources: Motor1, What that little arrow next to the fuel gauge actually means (motor1.com) · The Drive, The Moylan Arrow is one of Ford's best contributions to car design (thedrive.com).\n\n#Shorts #CarFacts #HowItWorks",
+      "titulo": "QR Code Squares: What the 3 Corners Actually Do",
+      "descripcion": "The three big squares on a QR code are finder patterns. They tell the camera where the code is, how big it is and which way is up, so it scans at any angle. QR codes were created in 1994 to track car parts.\n\nSources: Britannica, QR code (britannica.com) · Keyence, What is a QR code? (keyence.com).\n\n#Shorts #TechFacts #HowItWorks",
       "hashtags": [
         "#Shorts",
-        "#CarFacts",
+        "#TechFacts",
         "#HowItWorks"
       ],
       "etiquetas": [
-        "fuel gauge arrow",
-        "moylan arrow",
-        "gas cap side",
-        "car hacks",
-        "car facts",
-        "how cars work",
-        "car design history",
+        "QR code",
+        "QR code squares",
+        "finder pattern",
+        "how QR codes work",
+        "tech facts",
+        "technology explained",
         "hidden gears"
       ],
       "categoria_id": "28",
@@ -30,8 +29,8 @@
       "para_ninos": false,
       "contenido_sintetico_realista": false,
       "privacidad_hasta_publicar": "private",
-      "comentario_fijado": "Did you already know about the arrow, or did you just check your dashboard?",
-      "duracion_s": 37
+      "comentario_fijado": "What's the weirdest place you've ever seen a QR code?",
+      "duracion_s": 35
     }
   ]
 }
